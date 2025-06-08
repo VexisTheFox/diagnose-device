@@ -1,0 +1,6 @@
+{
+  "name": "Diagnostika problémů s telefonem",
+  "description": "Webová aplikace pro diagnostiku problémů s mobilním telefonem a odhad ceny opravy pomocí Gemini API. Komunikace probíhá v češtině.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
